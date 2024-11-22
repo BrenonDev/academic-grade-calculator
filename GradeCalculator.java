@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora_media_ponderada_notas {
+public class GradeCalculator {
     
     public static void main(String[] args) {
         

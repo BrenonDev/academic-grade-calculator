@@ -40,4 +40,4 @@ O programa segue a estrutura de um fluxograma lógico, que realiza as seguintes 
 7. **Fim**: O programa é encerrado.
 
 ## Licença
-Este projeto é licenciado sob a Licença Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) - veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.

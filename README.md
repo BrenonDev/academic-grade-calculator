@@ -41,3 +41,6 @@ O programa segue a estrutura de um fluxograma lógico, que realiza as seguintes 
 
 ## Licença
 Este projeto é licenciado sob a Licença Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) - veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+
+## Autor
+Brenon Olivetti Rondello - 2024
